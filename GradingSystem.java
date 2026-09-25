@@ -23,7 +23,7 @@ public class GradingSystem {
         else
             grade = 'F';
 
-        System.out.println("===== STUDENT GRADING SYSTEM =====");
+        System.out.println("===== STUDENT GRADING SYSTEM CI TEST =====");
         System.out.println("Student Name: " + studentName);
         System.out.println("Maths: " + maths);
         System.out.println("Physics: " + physics);
